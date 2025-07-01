@@ -34,12 +34,6 @@ The assignment includes three main workflows:
   - `task3.m`
 - **Results**: Outputs and figures saved in the `results/` directory.
 
-## How to Run
-```bash
-# Clone repository
-git clone https://github.com/<username>/Digital-Image-Processing-Assignment-2.git
-cd Digital-Image-Processing-Assignment-2
-
 # Open MATLAB and run scripts
 matlab -batch "run('scripts/task1_noise_denoise.m')"
 matlab -batch "run('scripts/task2_gaussian_filter.m')"
