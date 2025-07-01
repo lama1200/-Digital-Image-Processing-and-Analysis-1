@@ -2,7 +2,7 @@
 # Digital-Image-Processing-Assignment-2
 
 ## Project Overview
-This repository contains solutions for **Assignment 2** of the *Digital Image Processing and Analysis* course (CSC478, 2nd Semester 1446). It covers noise identification, Gaussian low-pass filtering, and periodic noise removal techniques implemented in MATLAB.
+This repository contains solutions for  *Digital Image Processing and Analysis* course (CSC478, 2nd Semester 1446). It covers noise identification, Gaussian low-pass filtering, and periodic noise removal techniques implemented in MATLAB.
 
 ## Objective
 Design and implement image processing methods to:
@@ -29,9 +29,9 @@ The assignment includes three main workflows:
 ## Dataset Design
 - **Input Images**: Two provided noisy images (`NoisyIm1.png`, `NoisyIm2.png`).
 - **Scripts**:
-  - `task1_noise_denoise.m`
-  - `task2_gaussian_filter.m`
-  - `task3_band_reject.m`
+  - `task1.m`
+  - `task2.m`
+  - `task3.m`
 - **Results**: Outputs and figures saved in the `results/` directory.
 
 ## How to Run
@@ -60,12 +60,7 @@ matlab -batch "run('scripts/task3_band_reject.m')"
 
 ## Authors
 
-* **Lama Alotibie** (ID: 443201044)
-  Section: 46672, CSC478 - Digital Image Processing and Analysis
-
-## License
-
-This work is for academic purposes only. Redistribution or commercial use is prohibited.
+* **Lama Alotibie** 
 
 ```
 ```
