@@ -1,5 +1,5 @@
 ````markdown
-# Digital-Image-Processing-Assignment-2
+# Digital-Image-Processing-Assignment
 
 ## Project Overview
 This repository contains solutions for  *Digital Image Processing and Analysis* course (CSC478, 2nd Semester 1446). It covers noise identification, Gaussian low-pass filtering, and periodic noise removal techniques implemented in MATLAB.
